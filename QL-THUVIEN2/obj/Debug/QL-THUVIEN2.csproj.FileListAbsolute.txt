@@ -1,0 +1,49 @@
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe.config
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.pdb
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.csprojResolveAssemblyReference.cache
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form1.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Properties.Resources.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.csproj.GenerateResource.Cache
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.exe
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.pdb
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form2.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form3.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form4.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form5.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form6.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form7.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form8.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form9.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form10.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\RdlCompile.cache
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\RdlCompile.compiled
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\bin\Debug\af\QL-THUVIEN2.resources.dll
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form10.af.resources
+D:\C#\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\af\QL-THUVIEN2.resources.dll
+C:\Users\Administrator\Desktop\QL-THUVIEN2\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe.config
+C:\Users\Administrator\Desktop\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.exe
+C:\Users\Administrator\Desktop\QL-THUVIEN2\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.pdb
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe.config
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.exe
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.pdb
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.pdb
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\bin\Debug\af\QL-THUVIEN2.resources.dll
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.csprojResolveAssemblyReference.cache
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Form8.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.Properties.Resources.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.csproj.GenerateResource.Cache
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\RdlCompile.cache
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\RdlCompile.compiled
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\af\QL-THUVIEN2.resources.dll
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmMain.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmBaocao.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmThemtaikhoan.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmDocGia.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmThongtinsach.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmThongtinhaxuatban.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmQuanlymuon.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmPhieuTra.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmTheLoai.resources
+C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmBaocao.af.resources
